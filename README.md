@@ -1,5 +1,4 @@
-# salestaxreceipt
-[https://travis-ci.org/inge4pres/salestaxreceipt.svg?branch=master]
+# salestaxreceipt [![Build Status](https://travis-ci.org/inge4pres/salestaxreceipt.svg?branch=master)](https://travis-ci.org/inge4pres/salestaxreceipt)
 Get a receipt for a provided list of items
 
 #### Run it from CLI
